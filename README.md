@@ -16,11 +16,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on : I AM CURRENTLY STUDYING BE EEE AT SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY
+- 🔭 CURRENTLY  : I AM CURRENTLY STUDYING BE EEE AT SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY
 
-- 🌱 I’m currently learning : CYBERSECURITY AT INFOSYS SPRING BOARD , CISSP CERTIFICATION , REACT FRAMEWORK . 
+- 🌱 LEARNING : CYBERSECURITY AT INFOSYS SPRING BOARD , CISSP CERTIFICATION , REACT FRAMEWORK . 
 
-- 💬 Talk to me about : HTML , CSS , BOOTSTRAP , WORDPRESS , ELEMENTOR , FIGMA , ETHICAL HACKING , PENETRATION TESTING , PYTHON , REACT , DART , FLUTTER .
+- 💬 CERTIFIED : HTML , CSS , BOOTSTRAP , WORDPRESS , ELEMENTOR , FIGMA , ETHICAL HACKING , PENETRATION TESTING , PYTHON , REACT , DART , FLUTTER .
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
