@@ -31,7 +31,6 @@
 <a href= https://github.com/mohanram-oss?tab=repositories&q=&type=&language=figma&sort= > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a> </br></br>
 <a href= https://github.com/mohanram-oss?tab=repositories&q=&type=&language=hackerrank&sort= > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg'> </a> </br></br>
 <a href= https://github.com/mohanram-oss?tab=repositories&q=&type=&language=python&sort= > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> </br></br>
-<a href= https://github.com/mohanram-oss?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> </br></br>
 <a href= https://github.com/mohanram-oss?tab=repositories&q=&type=&language=dart&sort= > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a> </br></br>
 <a href= https://github.com/mohanram-oss?tab=repositories&q=&type=&language=flutter&sort= > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a> </br></br>
 
