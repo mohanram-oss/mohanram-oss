@@ -1,3 +1,5 @@
+<body background="white">
+    
 <h1 align="center">HI THERE, I'M MOHAN RAM S</h1>
 <h3 align="center">STUDENT CUM FREELANCER</h3>
 
@@ -106,3 +108,4 @@ BOOTSTRAP| TAILWIND CSS | WORDPRESS | FLUTTER | DATA ANALYTICS | FIGMA | CANVA**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanram-oss&" alt="mohanram-oss" />
 </p>
+</body>
