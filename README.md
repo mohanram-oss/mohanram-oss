@@ -12,9 +12,9 @@
 
 <br clear="both">
 
-<div align="center">
+
   <img height="200" src="https://i.pinimg.com/originals/f9/59/87/f959874ccd12476cf7d88da8e687c6ea.png"  />
-</div>
+
 
 ###
 
