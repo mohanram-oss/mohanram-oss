@@ -20,7 +20,7 @@ BOOTSTRAP| TAILWIND CSS | WORDPRESS | FLUTTER | DATA ANALYTICS | FIGMA | CANVA**
             align="center" src="https://logodix.com/logo/1288539.png"
             alt="https://www.linkedin.com/in/mohan-ram-s-3955a4215/" height="30" width="40" /></a>
     <a href="https://instagram.com/__.mohanram.__" target="blank"><img  align="center"
-            src="https://th.bing.com/th/id/OIP.o-mIMg-wmw4jUM25fdsP9gAAAA?pid=ImgDet&w=474&h=474&rs=1](https://www.pngkey.com/png/full/1-13374_instagram-icon-new-black-background-vector-logo-instagram.png" alt="__.mohanram.__"
+            src="https://th.bing.com/th/id/R.5dc518944a771eb7df0eb12ef46e6d8a?rik=XOMsuj02VySTtA&riu=http%3a%2f%2fchiarastrickland.de%2finstagram.jpeg&ehk=hPL1oFPyldR%2fd5QYWxinQ0qwaov4lNTKvpe0EKGt%2bZ4%3d&risl=&pid=ImgRaw&r=0" alt="__.mohanram.__"
             height="30" width="40" /></a>
 </p>
 
