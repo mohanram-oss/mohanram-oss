@@ -20,7 +20,7 @@ BOOTSTRAP| TAILWIND CSS | WORDPRESS | FLUTTER | DATA ANALYTICS | FIGMA | CANVA**
             align="center" src="https://logodix.com/logo/1288539.png"
             alt="https://www.linkedin.com/in/mohan-ram-s-3955a4215/" height="30" width="40" /></a>
     <a href="https://instagram.com/__.mohanram.__" target="blank"><img  align="center"
-            src="https://th.bing.com/th/id/OIP.o-mIMg-wmw4jUM25fdsP9gAAAA?pid=ImgDet&w=474&h=474&rs=1" alt="__.mohanram.__"
+            src="https://th.bing.com/th/id/OIP.o-mIMg-wmw4jUM25fdsP9gAAAA?pid=ImgDet&w=474&h=474&rs=1](https://www.pngkey.com/png/full/1-13374_instagram-icon-new-black-background-vector-logo-instagram.png" alt="__.mohanram.__"
             height="30" width="40" /></a>
 </p>
 
