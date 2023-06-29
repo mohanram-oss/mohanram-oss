@@ -1,111 +1,88 @@
-<body background="white">
-    
-<h1 align="center">HI THERE, I'M MOHAN RAM S</h1>
-<h3 align="center">STUDENT CUM FREELANCER</h3>
+<br clear="both">
 
-- CURRENTLY WORKING ON **QR-BASED ATTENDANCE SYSTEM**
+<h5 align="left">HI THERE, I'M MOHAN RAM</h5>
 
-- CURRENTLY LEARNING **NETWORK AUTOMATION WITH PYATS**
+###
 
-- MY PORTFOLIO [https://myscrap.netlify.app/](https://myscrap.netlify.app/)
+<br clear="both">
 
-- ASK ME ABOUT **PYTHON | DART | C | MACHINE LEARNING | MONGODB | MYSQL | JS | REACT | NEXT JS | NODEJS | HTML | CSS |
-BOOTSTRAP| TAILWIND CSS | WORDPRESS | FLUTTER | DATA ANALYTICS | FIGMA | CANVA**
+<h6 align="left">STUDENT CUM FREELANCER</h6>
 
-- REACH ME OUT **mohanramswl@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohan-ram-s-3955a4215/" target="blank"><img
-            align="center" src="https://logodix.com/logo/1288539.png"
-            alt="https://www.linkedin.com/in/mohan-ram-s-3955a4215/" height="30" width="40" /></a>
-    <a href="https://instagram.com/__.mohanram.__" target="blank"><img  align="center"
-            src="https://th.bing.com/th/id/R.5dc518944a771eb7df0eb12ef46e6d8a?rik=XOMsuj02VySTtA&riu=http%3a%2f%2fchiarastrickland.de%2finstagram.jpeg&ehk=hPL1oFPyldR%2fd5QYWxinQ0qwaov4lNTKvpe0EKGt%2bZ4%3d&risl=&pid=ImgRaw&r=0" alt="__.mohanram.__"
-            height="30" width="40" /></a>
-</p>
+<br clear="both">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <br /> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <br /> <img
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> <a
-        href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-        rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="c" width="40" height="40" /> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a> <a
-        href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
-            width="40" height="40" /> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a
-        href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://www.invisionapp.com/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision"
-            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a> <a
-        href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-            alt="pandas" width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
-            width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-    </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> <a href="https://reactnative.dev/" target="_blank"
-        rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"
-            height="40" /> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-            width="40" height="40" /> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
-            width="40" height="40" /> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img
-            src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" /> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
-            height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/doXBzUFJRxpaUbuaqz/200.gif?cid=790b761152b3ucfnusckj0k4bladptq5va52jubghnc0dyyu&rid=200.gif&ct=g"  />
+</div>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanram-oss&show_icons=true&locale=en&layout=compact"
-        alt="mohanram-oss" /></p>
+###
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=mohanram-oss&show_icons=true&locale=en"
-        alt="mohanram-oss" /></p>
+<br clear="both">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanram-oss&" alt="mohanram-oss" />
-</p>
-</body>
+<p align="left">CURRENTLY WORKING ON QR-BASED ATTENDANCE SYSTEM<br><br>CURRENTLY LEARNING NETWORK AUTOMATION WITH PYATS<br><br>MY PORTFOLIO https://myscrap.netlify.app/<br><br>ASK ME ABOUT PYTHON | DART | C | MACHINE LEARNING | MONGODB | MYSQL | JS | REACT | NEXT JS | NODEJS | HTML | CSS | BOOTSTRAP| TAILWIND CSS | WORDPRESS | FLUTTER | DATA ANALYTICS | FIGMA | CANVA<br><br>REACH ME OUT mohanramswl@gmail.com</p>
+
+###
+
+<br clear="both">
+
+<h5 align="left">CONNECT WITH ME</h5>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohan-ram-s-3955a4215/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/__.mohanram.__" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="35" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="35" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="35" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="35" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="35" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="35" alt="arduino logo"  />
+</div>
+
+###
