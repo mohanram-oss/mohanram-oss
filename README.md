@@ -13,7 +13,7 @@
 <br clear="both">
 
 
-  <img height ="500"  width = "100%" src="https://wallpaperaccess.com/full/5522937.jpg"  />
+  <img  src="https://wallpaperaccess.com/full/5522937.jpg"  />
 
 
 ###
