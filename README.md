@@ -15,10 +15,10 @@ BOOTSTRAP| TAILWIND CSS | WORDPRESS | FLUTTER | DATA ANALYTICS | FIGMA | CANVA**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohan-ram-s-3955a4215/" target="blank"><img
-            align="center" style="display: flex;" src="https://sguru.org/wp-content/uploads/2018/02/Logo-LinkedIn-Round.png"
+            align="center" src="https://logodix.com/logo/1288539.png"
             alt="https://www.linkedin.com/in/mohan-ram-s-3955a4215/" height="30" width="40" /></a>
-    <a href="https://instagram.com/__.mohanram.__" target="blank"><img style="display: flex;"  align="center"
-            src="https://i.pinimg.com/originals/63/79/cb/6379cb08fbc09f78459d1a4f10b1c670.png" alt="__.mohanram.__"
+    <a href="https://instagram.com/__.mohanram.__" target="blank"><img  align="center"
+            src="https://webstockreview.net/images/instagram-clipart-black-and-white-15.png" alt="__.mohanram.__"
             height="30" width="40" /></a>
 </p>
 
