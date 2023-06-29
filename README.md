@@ -13,7 +13,7 @@
 <br clear="both">
 
 
-  <img height ="200" width ="100" src="https://pin.it/2UWGr4q"  />
+  <img height ="200"  src="https://pin.it/2UWGr4q"  />
 
 
 ###
