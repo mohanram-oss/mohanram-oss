@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h6 align="left">STUDENT CUM FREELANCER</h6>
+<h6 align="left">Aspiring Data Scientist | Final year Student at Sathyabama Institute of Science and Technology</h6>
 
 ###
 
@@ -20,7 +20,11 @@
 
 <br clear="both">
 
-<p align="left">CURRENTLY WORKING ON QR-BASED ATTENDANCE SYSTEM<br><br>CURRENTLY LEARNING NETWORK AUTOMATION WITH PYATS<br><br>MY PORTFOLIO https://myscrap.netlify.app/<br><br>ASK ME ABOUT PYTHON | DART | C | MACHINE LEARNING | MONGODB | MYSQL | JS | REACT | NEXT JS | NODEJS | HTML | CSS | BOOTSTRAP| TAILWIND CSS | WORDPRESS | FLUTTER | DATA ANALYTICS | FIGMA | CANVA<br><br>REACH ME OUT mohanramswl@gmail.com</p>
+<p align="left">I am Mohan Ram, an Electrical and Electronics Engineering undergraduate at Sathyabama University, with expertise in Python, Java, Data Analytics, ETL, Microsoft PoweBI, Microsoft Excel, and Machine Learning. I am eager to apply my skills to solve complex problems and contribute to impactful projects.
+
+Proficient in SQL databases. I have a strong foundation in Data Analytics and Machine Learning model development. As the Former President of the IEI Student Chapter, I have demonstrated exceptional leadership and organizational abilities, driving initiatives that fostered growth and collaboration within the community.
+
+I had the privilege of being a resource person, conducting over 70 hours of Python boot camps for various departments in my university. Additionally, I am proud to have authored a review paper, published on the prestigious Scopus website, showcasing my dedication to research and knowledge dissemination.<br><br>REACH ME OUT mohanramswl@gmail.com</p>
 
 ###
 
@@ -33,38 +37,13 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohan-ram-s-3955a4215/" target="_blank">
+  <a href="https://www.linkedin.com/in/s-mohanram/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/__.mohanram.__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+  
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="35" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="35" alt="tensorflow logo"  />
-  <img width="12" />
-
-</div>
 
 ###
